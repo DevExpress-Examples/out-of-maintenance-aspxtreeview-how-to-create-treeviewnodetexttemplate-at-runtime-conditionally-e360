@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<namespace HelpUrl="javascript:void(0);" Title="DevExpress.Web.ASPxCallback Namespace">
+    <class HelpUrl="javascript:void(1);" Title="ASPxCallback" NodeTypeImage="~/Images/class.gif" >
+        <helpNavNode HelpUrl="javascript:void(2);" Title="ASPxCallback Members"/>
+        <ctor HelpUrl="javascript:void(3);" Title="ASPxCallback Constructor"/>
+        <helpNavNode HelpUrl="javascript:void(4);" Title="ASPxCallback Properties">
+            <property HelpUrl="javascript:void(5);" Title="ClientInstanceName Property" NodeTypeImage="~/Images/property.gif" />
+            <property HelpUrl="javascript:void(6);" Title="ClientSideEvents Property" NodeTypeImage="~/Images/property.gif"/>
+            <property HelpUrl="javascript:void(7);" Title="EnableCallbackCompression Property" NodeTypeImage="~/Images/property.gif"/>
+            <property HelpUrl="javascript:void(8);" Title="JSProperties Property" NodeTypeImage="~/Images/property.gif"/>
+        </helpNavNode>
+        <helpNavNode HelpUrl="javascript:void(9);" Title="ASPxCallback Events">
+            <event HelpUrl="javascript:void(10);" Title="Callback Event" NodeTypeImage="~/Images/event.gif"/>
+            <event HelpUrl="javascript:void(11);" Title="CustomJSProperties Event" NodeTypeImage="~/Images/event.gif"/>
+        </helpNavNode>
+        <helpNavNode HelpUrl="javascript:void(12);" Title="ASPxCallback Methods">
+            <method HelpUrl="javascript:void(13);" Title="GetRenderResult Method" NodeTypeImage="~/Images/method.gif"/>
+        </helpNavNode>
+    </class>
+    <class HelpUrl="javascript:void(14);" Title="CallbackClientSideEvents" NodeTypeImage="~/Images/class.gif" >
+        <helpNavNode HelpUrl="javascript:void(15);" Title="CallbackClientSideEvents Members"/>
+        <ctor HelpUrl="javascript:void(16);" Title="CallbackClientSideEvents Constructor"/>
+        <helpNavNode HelpUrl="javascript:void(17);" Title="CallbackClientSideEvents Properties">
+            <property HelpUrl="javascript:void(18);" Title="CallbackComplete Property" NodeTypeImage="~/Images/property.gif"/>
+        </helpNavNode>
+    </class>
+    <class HelpUrl="javascript:void(19);" Title="CallbackEventArgs"  NodeTypeImage="~/Images/class.gif">
+        <helpNavNode HelpUrl="javascript:void(20);" Title="CallbackEventArgs Members"/>
+        <ctor HelpUrl="javascript:void(21);" Title="CallbackEventArgs Constructor"/>
+        <helpNavNode HelpUrl="javascript:void(22);" Title="CallbackEventArgs Properties">
+            <property HelpUrl="javascript:void(23);" Title="Result Property" NodeTypeImage="~/Images/property.gif"/>
+        </helpNavNode>
+    </class>
+    <delegate HelpUrl="javascript:void(24);" Title="CallbackEventHandler Delegate" NodeTypeImage="~/Images/delegate.gif"/>
+</namespace>
